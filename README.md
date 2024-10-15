@@ -743,7 +743,7 @@ https://github.com/DasRasyo/Celestia-mocha-4
 * [Celestia Validator monitoring guide](https://docs.services-ernventures.com/testnets/celestia/celestia-validator-monitoring-guide-with-tenderduty) #_with tenderduty_
 * [Celestia bridge alert](https://docs.services-ernventures.com/testnets/celestia/celestia-bridge-alert)
 * [Useful command](https://docs.services-ernventures.com/testnets/celestia/useful-commands) 
-* [Managing Validator Keys with TMKMS] (https://medium.com/@ernventures/server-protection-how-to-secure-access-and-save-validator-keys-dcc817a31956)
+* [Managing Validator Keys with TMKMS](https://medium.com/@ernventures/server-protection-how-to-secure-access-and-save-validator-keys-dcc817a31956)
 
 ---
 
