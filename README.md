@@ -731,6 +731,7 @@ https://github.com/DasRasyo/Celestia-mocha-4
 * [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-full-node) #_archive_
 * [Consensus Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#snapshot-1) #_pruned_
 * [Bridge Node Snapshot](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-bridge-node) #_archive_
+* [Bridge Node Snapshot(new version)](https://docs.services-ernventures.com/testnets/celestia/api-snapshot-addrbook#for-bridge-node-v0.18.2-mocha) #_archive_
 #### Endpoints
 * RPC: `https://celestia.rpc.testnets.services-ernventures.com`
 * API: `https://celestia.api.testnets.services-ernventures.com` 
